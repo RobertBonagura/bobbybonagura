@@ -1,0 +1,20 @@
+article {
+   margin: auto;
+   width: 50%;
+}
+
+#info {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+
+.section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.job {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
