@@ -1,20 +1,52 @@
-article {
-   margin: auto;
-   width: 50%;
+body {
+  background-color: #001833;
+  border: 20px;
+}
+
+#intro {
+  padding-top: 400px;
+  padding-bottom: 250px;
+  background-image: url("blue.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#intro_text,
+#portfolio_text {
+  color: #f3d85e;
+  text-shadow: 2px 2px 4px #04233b;
+}
+
+.centered_div {
+  margin: auto;
+  width: 50%;
+}
+
+#portfolio {
+  background-color: #2b9eaf;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+#resume {
+  padding: 75px;
+  margin-top: 150px;
+  background-color: white;
 }
 
 #info {
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 75px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 75px;
 }
 
 .section {
-    margin-top: 25px;
-    margin-bottom: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .job {
-    margin-top: 25px;
-    margin-bottom: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
